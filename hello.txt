@@ -1,5 +1,11 @@
-hola GIT
 
+<<<<<<< Updated upstream
 Mi segundo cambio c:
 
 Cambios
+=======
+
+hola GIT *nuevas funcionalidades*
+
+Mi segundo cambio c:
+>>>>>>> Stashed changes
