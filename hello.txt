@@ -1,11 +1,17 @@
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Mi segundo cambio c:
 
 Cambios
 =======
+=======
+>>>>>>> Stashed changes
 
 hola GIT *nuevas funcionalidades*
 
 Mi segundo cambio c:
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
